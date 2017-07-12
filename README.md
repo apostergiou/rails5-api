@@ -1,2 +1,4 @@
-# rails5-api
-RESTful JSON API with Rails5
+# RESTful API with Rails 5
+A JSON API build with the Rails 5 core feature: API only applications.
+
+#TODO
