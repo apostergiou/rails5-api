@@ -36,5 +36,7 @@ module Rails5Api
         resource '*', headers: :any, methods: [:get, :options]
       end
     end
+
+    config.middleware.use Rack::Attack
   end
 end
